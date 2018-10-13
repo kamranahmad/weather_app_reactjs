@@ -1,0 +1,18 @@
+[
+  {
+   "title":"Los Angeles, CA, USA",
+   "location_type":"City",
+   "woeid":906057,
+   "latt_long":"34.0522342,-118.2436849"
+  },
+  {"title":"New York, NY, USA",
+   "location_type":"City",
+   "woeid":2123260,
+   "latt_long":"40.7127753,-74.0059728"
+  },
+  {"title":"Austin, TX, USA",
+    "location_type":"City",
+    "woeid":2123261,
+    "latt_long":"30.267153,-97.74306079999997"
+   }
+]
